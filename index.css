@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+.qw{
+    border: solid 3px blue;
+    border-radius: 20px;
+    opacity: 0.2;
+
+}
+.qw:hover{
+    opacity: 1;
+    transition: all 1s linear;
+}
+h1{
+    text-align: center;
+
+
+}
+a{
+    border: solid 3px blue;
+    border-radius: 5px;
+ padding: 10px 10px 10px 10px;
+ text-decoration: none;
+}
+h1{
+    background-image: linear-gradient( white,blue, red);
+}
+.qa{
+    border: solid 3px blue;
+    border-radius: 20px;
+    opacity: 0.2;
+
+}
+.qa:hover{
+    border: solid 3px blue;
+    border-radius: 20px;
+    opacity: 1;
+    transition: all 1s linear;
+}
